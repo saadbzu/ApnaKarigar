@@ -1,0 +1,2 @@
+rootProject.name = "ApnaKarigar"
+include ':app'

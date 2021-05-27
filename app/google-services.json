@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53507994232",
+    "project_id": "apna-karigar-pk",
+    "storage_bucket": "apna-karigar-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53507994232:android:e7c9731a7717edd475f38d",
+        "android_client_info": {
+          "package_name": "com.hnzsoft.apnakarigar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53507994232-eat85cns1vp0f5qaqme5005327hmqmjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hnzsoft.apnakarigar",
+            "certificate_hash": "751a95aa9d6a588c8ae256f0e6f416ccd62809bc"
+          }
+        },
+        {
+          "client_id": "53507994232-85lme5pbo0e33lcsss2dkaor8cp3sdbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEQi1sOCZ2vAuKvjxEDBHqrnXHHLyB-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53507994232-85lme5pbo0e33lcsss2dkaor8cp3sdbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

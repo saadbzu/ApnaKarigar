@@ -10,4 +10,12 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="login_verify_code_title">OTP Verification</string>
+    <string name="login_verify_code_message">You will receive a 4 digit code to verify next</string>
+    <string name="login_verify_code_message2">Enter Mobile Number</string>
+    <string name="login_verify_country_code">+92-</string>
+    <string name="login_verify_hint_number">XXXXXXXXXX</string>
+    <string name="btn_get_otp">GET OTP</string>
 </resources>

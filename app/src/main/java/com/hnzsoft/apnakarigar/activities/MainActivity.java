@@ -1,4 +1,4 @@
-package com.hnzsoft.apnakarigar;
+package com.hnzsoft.apnakarigar.activities;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,6 +14,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.hnzsoft.apnakarigar.R;
 import com.hnzsoft.apnakarigar.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
